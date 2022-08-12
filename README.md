@@ -1,4 +1,4 @@
-- CEethan👋 Hi, I’m @EeeasyCode
+- CEethan👋 
 - 👀 I’m interested in Deep Learning and information security.
 - 🌱 I’m currently learning python, R program.
 - 💞️ I’m looking to collaborate on 
